@@ -1,0 +1,542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discourse (recommended to all our English divines) concerning the death of the witnesses in general, and the two witnesses in particular; : plainly shewing ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93210</idno>
+            <idno type="STC">Wing S3584C</idno>
+            <idno type="STC">ESTC R184159</idno>
+            <idno type="EEBO-CITATION">43077623</idno>
+            <idno type="OCLC">ocm 43077623</idno>
+            <idno type="VID">151715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151715)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2273:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discourse (recommended to all our English divines) concerning the death of the witnesses in general, and the two witnesses in particular; : plainly shewing ...</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Lambeth Place Library, London, England.</note>
+                  <note>First, the chief and true reason of their death. -- Secondly, the manner how they are to be slain. -- Thirdly, the place where. -- Fourthly, the time when. -- Fifthly, by whom they are to be slain. -- Sixthly, the true reason why they are overcome, and why in particular by a war. -- Seventhly, who they are, and that they have already been slain. -- The conclusion.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:151715:1" rendition="simple:additions"/>
+            <head>A SHORT DISCOURSE (Recommended to all Our <hi>Engliſh</hi>
+DIVINES) Concerning the Death of the <hi>Witneſſes</hi> in general, AND The
+Two <hi>Witneſſes</hi> in particular; Plainly Shewing, 
+<list>
+                  <item>Firſt, <hi>The</hi> Chief <hi>and</hi> True <hi>Reaſon
+of their Death.</hi>
+                  </item>
+                  <item>Secondly, <hi>The Manner</hi> How <hi>they are to be
+Slain.</hi>
+                  </item>
+                  <item>Thirdly, <hi>The Place</hi> Where.</item>
+                  <item>Fourthly, <hi>The Time</hi> When.</item>
+                  <item>Fifthly, <hi>By</hi> Whom <hi>they are to be
+Slain.</hi>
+                  </item>
+                  <item>Sixthly, <hi>The</hi> True <hi>Reaſon</hi> Why <hi>they
+are</hi> Overcome, <hi>and</hi> why <hi>in particular by a</hi> War.</item>
+                  <item>Seventhly, Who <hi>they are, and that they</hi> have
+already <hi>been Slain.</hi>
+                  </item>
+               </list>
+            </head>
+            <div type="conclusion">
+               <head>The CONCL<g ref="char:V">Ʋ</g>SION.</head>
+               <p n="1">I. <hi>FIRST,</hi> The chief Reaſon of their Death is
+not their Adverſa<g ref="char:EOLhyphen"/>ry's <hi>Malice,</hi> as hath been generally ſuppoſed;
+no, <hi>This</hi> is only the Secondary and Inſtrumental Cauſe thereof; the
+<hi>True</hi> and <hi>Chief</hi> Reaſon of their Death, is, the
+<hi>Neceſſity</hi> thereof; for, having <hi>Finiſhed</hi> their
+Teſtimony, they <hi>Ought</hi> to die: New Evidence is <pb n="2" facs="tcp:151715:2"/>to
+be given, therefore <hi>They</hi> are to be thruſt out of Court. <hi>Come
+<g ref="char:V">Ʋ</g>p Hither,</hi> ſaith the Text; this <hi>Great Voice</hi> was not made or
+directed to them, (for <hi>They</hi> and <hi>Their</hi> Teſtimony were
+ſlain:) But to the <hi>New-Riſen</hi> Witneſſes, inveſting
+<hi>Them</hi> with Power, and authorizing <hi>Them</hi> to give in
+<hi>Their</hi> Evidence, and to commence a <hi>New</hi> Diſpenſation. Was
+the Death of <hi>Christ</hi> (for I muſt all along make a Compariſon
+therewith) <hi>Neceſſary</hi> to put a Period to the Jewiſh
+Diſpenſation and Ceremonies, then <hi>Their</hi> Death was neceſſary to
+put an End to the <hi>Chriſtian,</hi> I mean the Firſt Chriſtian
+Diſpenſation? No Diſpenſation can be <hi>finiſhed</hi> with<g ref="char:EOLhyphen"/>out
+Death, and without a <hi>Death</hi> there can be no <hi>Reſurrection,</hi>
+and without the intire Diſſolution of the <hi>Old,</hi> there can be no
+<hi>New</hi> Diſpen<g ref="char:EOLhyphen"/>ſation. So 'tis ſelf-evident, That the Death of the
+Witneſſes is <hi>Neceſ<g ref="char:EOLhyphen"/>ſary;</hi> for would the Old Diſpenſation
+have ſerved God's Purpoſes, and the World's Neceſſities, 'tis certain,
+they had not been ſlain. 'Twas impoſſible it ſhould be otherwiſe.
+<hi>Father,</hi> ſaith Chriſt, <hi>if poſſible, let this Cup paſs
+from me.</hi> But ſince it did not paſs, what doth his Death im<g ref="char:EOLhyphen"/>ply, but
+that 'twas <hi>impoſſible</hi> it ſhould be otherwiſe? And ſince the
+Head could not (according to God's Appointment) eſcape Death on account of
+Finiſhing the Old, and Commencing a New Diſpenſation; 'tis much more
+impoſſible for the Body or Members to avoid Drinking of the ſame Cup,
+when they are in the ſame Circumſtances and Pre<g ref="char:EOLhyphen"/>dicament.</p>
+               <p n="2">II. <hi>Secondly,</hi> As to the Manner <hi>How</hi> they
+are ſlain. To this I an<g ref="char:EOLhyphen"/>ſwer; That Sickneſs, Perſecution, or any other
+Abuſe or Alteration in the <hi>ſame</hi> Subject, Body, or Conſtitution,
+is not <hi>This ſpecial Death</hi> they are to undergo. My Reaſons are,
+<hi>First,</hi> If <hi>This ſort</hi> of Death might have ſerved the Turn,
+<hi>Then</hi> Chriſt had had no Occaſion to have prayed, <hi>Father, if
+poſſible,</hi> &amp;c. For it had been <hi>poſſible</hi> and feaſible
+e<g ref="char:EOLhyphen"/>nough, to have Effected the Great Deſign, without his Drinking the Bitter
+Cup: For, a Scourging, a Whipping, or any other Abuſe to his Sacred Perſon,
+would have ſerved the Turn. <hi>Secondly,</hi> Would <hi>This ſort</hi> of
+Death have ſerved the Deſign of God, <hi>then</hi> they might have died and
+roſe <hi>often,</hi> becauſe they might be perſecuted and abuſed
+<hi>of<g ref="char:EOLhyphen"/>ten.</hi> But 'tis ſelf-evident, That <hi>This Death</hi> ought to be
+Circumſtanced ſo, and be of ſuch a Nature, that they may die but
+<hi>once,</hi> becauſe Chriſt died but <hi>once,</hi> and, indeed, no Man
+can die twice. <hi>Thirdly,</hi> Would <hi>This ſort</hi> of Death have done
+the Buſineſs, <hi>then</hi> they would have riſen <hi>Bare grain,</hi>
+with their Old Bodies; and this contradicts the true Ana<g ref="char:EOLhyphen"/>logy of a
+Reſurrection. There ought to be nothing Old in the Re<g ref="char:EOLhyphen"/>ſurrection, but
+<hi>all Things New.</hi> And Chriſt himſelf in relation to this 
+<pb n="3" facs="tcp:151715:2"/>Great Scene, ſaith, <hi>Behold, I make all Things New.</hi>
+Sickneſs or Weak<g ref="char:EOLhyphen"/>neſs is not Death, Reſtitution is not Reſurrection.
+The Powers and Conſtitution of the Old Church and State ought <hi>not</hi> to
+be impaired or weakned, but <hi>totally diſſolved,</hi> to make it Death,
+and <hi>not</hi> reſtored or repaired, but <hi>abſolutely Rebuilt,</hi> to
+make a Reſurrection, otherwiſe the true Analogy of Death and Reſurrection
+will not be anſwer'd: And when I ſay the Church and State are thus
+abſolutely to be <hi>diſſolved,</hi> I think, I need not ſay, that both
+Head and Member ought ſo to be, for I comprehend both under the Denomination
+of Witneſſes.</p>
+               <p n="3">III. <hi>Thirdly,</hi> As to the Place <hi>where.</hi> It
+ought not to be in an Inland Country: And therefore not in <hi>Rome, Piedmont,
+Germany, Bohemia, Hungaria, France,</hi> &amp;c. as <hi>ſome</hi> have
+thought. I freely own, that ſome Members or Parts of the Body of the True
+Church, and in a common Senſe, the Witneſſes of <hi>Jeſus,</hi> in all
+theſe Countries have been abuſed, perſecuted and ſlain; but
+<hi>Theſe</hi> were not final, but intermediate Deaths; and as the Church can
+have no <hi>Abortive</hi> Birth, ſo no <hi>immature</hi> Death. But,
+<hi>Secondly,</hi> As ſuch Abuſes and Perſecutions have no Title to the
+Denomination of <hi>This Special</hi> Death; ſo the Places are very improper
+for it: Becauſe, it muſt be acknowledged, that Inland Countries are unfit
+to begin a Diſpenſation in; and nothing is more certain than that the
+Witneſſes are ſlain on purpoſe, that a New Diſpenſation may
+com<g ref="char:EOLhyphen"/>mence. Further, The Head was ſlain in the <hi>East,</hi> the Body ought
+therefore to be ſlain in the <hi>West:</hi> But this will be more confirmed,
+if we con<g ref="char:EOLhyphen"/>ſider; The Holy Writings make mention of Two Harveſts, the
+Firſt in the <hi>East,</hi> and by conſequence, the Latter in the
+<hi>West;</hi> for the uſual Cuſtom of Reapers confirms it, who uſually
+begin at the End of a Field; The World is this Field. The Firſt Harveſt was
+the Jewiſh Ceremony, and Pagan Idolatry, they were to be Reaped down; ſo
+the Reapers of thoſe Times, <hi>viz.</hi> the Old Witneſſes began
+<hi>Their</hi> Work in the Eaſt, and <hi>Now</hi> the Chriſtian
+Superſtition and Papal Idolatry is to be reaped down; ſo 'tis convenient
+the Reapers, that is, the New-riſen Witneſſes begin their Harveſt in
+the <hi>West.</hi> Nature will direct us in this Affair. The Sun and the
+Goſpel are Fellow-Travellers: They Fi<g ref="char:EOLhyphen"/>niſh their Journey in the
+<hi>West,</hi> and then ſet out again for the <hi>East.</hi> But
+<hi>Laſtly,</hi> The Witneſſes, and their Two chief Repreſentatives are
+to be ſlain in their <hi>own chief Country,</hi> and <hi>own chief City:</hi>
+Becauſe Chriſt was ſlain in <hi>Judea</hi> at <hi>Jeruſalem,</hi>
+otherwiſe there will not be a due Conformity betwixt the Body and the Head.
+And as for the Place being called <hi>So<g ref="char:EOLhyphen"/>dom</hi> and <hi>Aegypt,</hi> it
+imports Little, becauſe 'tls <hi>Spiritually</hi> called ſo; for
+<hi>Judea,</hi> by the Prophets, has often been <hi>Spiritually</hi> called
+<hi>Sodom,</hi> and <pb n="4" facs="tcp:151715:3"/>ſo very well may the Witneſſes
+Country with a <hi>Salvo</hi> to their Holy Function.</p>
+               <p n="4">IV. <hi>Fourthly,</hi> As to the Time <hi>When.</hi> To
+this I anſwer, 'Tis <hi>When</hi> they have come to their Journey's End,
+<hi>When</hi> they have <hi>Finiſhed</hi> their Courſe and Teſtimony:
+<hi>When</hi> they have Acted that Part, and Publiſh<g ref="char:EOLhyphen"/>ed thoſe Truths Heaven
+has appointed them to Publiſh; <hi>When</hi> the <hi>Mi<g ref="char:EOLhyphen"/>nor</hi> or
+<hi>Guardian State</hi> of 1260 Years are Ended; <hi>When</hi> the Church is
+come to her adult State, <hi>When</hi> ſhe is grown a Woman, or come <hi>Ad
+Menſuram Staturae Chriſti adulti:</hi> This is called the Fulneſs of
+Time: And <hi>Then</hi> it is they are ſlain, <hi>Then</hi> it is that a
+Solemn Period is put to the Old Diſpenſation. <hi>Then</hi> it is a Great
+Voice is heard out of the Temple of Heaven from the <hi>Throne,</hi> ſaying,
+<hi>GEGONE,</hi> it is done, or <hi>Finiſhed;</hi> But what? <hi>Their</hi>
+Teſtimony, or the Old Diſpenſation. There are <hi>Two Great Voices</hi>
+in Scripture, particularly to be taken Notice of; The <hi>First</hi> is,
+<hi>Conſummatum est,</hi> made by Chriſt <hi>Viva Voce</hi> on the Croſs:
+The <hi>Other</hi> is this <hi>Gegone</hi> from the <hi>Throne, (Rex
+patitur.)</hi> As the <hi>First</hi> was utter'd at the Death of the Head, and
+finiſhed the Jewiſh Diſ<g ref="char:EOLhyphen"/>penſation, ſo the <hi>Latter</hi> of courſe
+muſt be made at the Death of the Body (or the Witneſſes) and
+<hi>finiſh</hi> the Chriſtian Diſpenſation, I mean the Firſt
+Diſpenſation: For we are to come from <hi>Strength</hi> to
+<hi>Strength</hi> until we come to God in <hi>Sion.</hi> As to the Calculation
+of Numbers and Figures, 'tis a Barren Study, and may miſguide us, but
+Reaſon and Sub<g ref="char:EOLhyphen"/>ſtance never can. Yet in relation to this, the Year of the
+Witneſſes Death being fixed (as hereafter) will eaſily fix all the
+Reſt.</p>
+               <p n="5">V. <hi>Fifthly,</hi> By <hi>Whom</hi> they are Slain. They
+are not ſlain by a Foreign Enemy or Nation, they are not ſlain, (I ſpeak
+of this laſt Special and Particular Death) by the Pagan or Papal Power, as
+ſome have unadvi<g ref="char:EOLhyphen"/>ſedly affirmed: For, though theſe may rejoice at their
+Death, and in other Caſes be Criminal enough; yet to give them their due,
+they have no hand in <hi>this Last</hi> Tragedy. It needs no Proof that the
+Pagan and Papal Powers are repreſented by the Beaſts that riſe out of the
+Sea and Earth; but 'tis plain, that neither of theſe Beaſts are concerned;
+For the Text is expreſs to the Contrary, <hi>That the Beast which riſes out
+of the Bottomleſs Pit,</hi> (<hi>viz.</hi> Wickedneſs in general, or Satan)
+<hi>ſhall make WAR with Them, OVERCOME Them, and SLAY Them.</hi> Now ſince
+theſe Three Beaſts have Three diſtinct Characters, ſure none will
+confound them, and make them all one and the ſame. Not to mince any further
+the Matter, the Truth is, We, their <hi>Friends</hi> and Country<g ref="char:EOLhyphen"/>men, have
+ſlain them. The Reaſon is, Chriſt was ſlain by his Own 
+<pb n="5" facs="tcp:151715:3"/>Countrymen and Friends. He had his Wounds from the Hands of
+his Friends, and from thoſe of his Own Houſe. Thus with Zeal, whilſt the
+<hi>Jews</hi> wait for, and Expect their <hi>SAVIO<g ref="char:V">Ʋ</g>R,</hi> and the
+Chriſtians their <hi>Two Witneſſes;</hi> The <hi>First,</hi> when
+<hi>He</hi> came ſlew the <hi>First,</hi> and the <hi>Latter,</hi> when
+<hi>They</hi> came ſlew the <hi>Latter.</hi> The <hi>Homines ex Tribubus,
+&amp; Populis &amp; Linguis &amp; Gentibus,</hi> are their Friends, <hi>Coguati
+in Religione.</hi> Men of the ſame Reformed Religion, and of the ſame
+Nation. But the <hi>Jucolae Terrae</hi> are their Enemies and Foreigners, who
+rejoice at their Death, being of a Differing Perſuaſion, and whom theſe
+Witneſſes tormented. In ſhort, the Firſt are Proteſtants, the Latter
+Papiſts, and had not their Friends ſlain them, there had been no due
+Conformity be<g ref="char:EOLhyphen"/>twixt the Circumſtances of the Death of the Head, and the
+Body.</p>
+               <p n="6">VI. <hi>Sixthly,</hi> The <hi>True</hi> Reaſons
+<hi>Why</hi> they are <hi>Overcome,</hi> and <hi>Why</hi> in Particular by a
+<hi>War,</hi> are as follows: But, <hi>Firſt</hi> I muſt acquaint the World
+of a particular Thing they have taken little Notice of, which yet gives
+extraordinary Light to this great Myſtery, and that is this, That <hi>This
+War</hi> is, and muſt of Neceſſity be an <hi>Inteſtine War:</hi> For,
+How can it be otherwiſe? Since their Friends and Countrymen, Men of the
+ſame Religion and Nation muſt ſlay them. This has been ſufficiently
+proved above, and cannot be denied. I hope therefore they will not ſay, that
+is a Foreign War made in the ſame Nation, by Citizen and Countrymen amongſt
+themſelves, and it can be no other; for the <hi>Ju<g ref="char:EOLhyphen"/>culae Terrae,</hi> who are
+Foreigners, are only Spectators, not Actors in the Affair. But there is another
+<hi>Great</hi> Reaſon, little inferior to this, which fully clenches the
+Matter, and makes it impoſſible it ſhould be other than a Civil War, and
+that is this, <hi>The Witneſſes</hi> (in Conformity to the Head) <hi>are to
+riſe again after they are ſlain.</hi> Now, had it been a Foreign Enemy, or
+Men of another Religion that had ſlain them, they had <hi>never riſen
+again,</hi> but Church and State had both fallen into the bottomleſs Pit, and
+been utterly deſtroyed. Theſe Things are very plain. But to return to the
+Reaſons, <hi>Why,</hi> &amp;c. conſidering War therefore neither as Civil
+or Foreign, but indefinitely, and abſtractedly; I ſay not only a a
+<hi>War,</hi> but <hi>Victory</hi> thereby, are Circumſtances little leſs
+neceſſary than their Death it ſelf: For ſince the Old Conſtitution
+both of Church and State were wholly to be diſſolved, nothing leſs than a
+<hi>War</hi> could do <hi>This,</hi> and done it ought to be, otherwiſe the
+Old Diſpenſation could have no true and proper Period; ſome Alteration or
+a Weakening of it would not anſwer, nothing but Death could ſerve the Turn,
+that is, a Total Diſſolution. A Seizure by Conſpiracy would not ſerve,
+nor could <pb n="6" facs="tcp:151715:4"/>a few Tumultuous Hands pull down the Building,
+nothing but a ge<g ref="char:EOLhyphen"/>neral Aſſault on all ſides could effectually do it; and
+this did it indeed, and levell'd all with the Ground. But to come cloſer; The
+Conſtable and Watch with Clubs and Staves may ſeize and overpower a
+ſingle Perſon unarmed: But to pluck a King and High Prieſt from their
+Throne, who are inveſted with Power and Force, nothing leſs than a
+<hi>Greater</hi> Force could do this, that is, a <hi>War.</hi> And as to a full
+Victory or Conqueſt it was no leſs neceſſary in reſpect of a due
+Proceſs and Ar<g ref="char:EOLhyphen"/>raignment. Stabbing or Aſſaſſination might indeed
+procure Death, but then <hi>This ſort</hi> of Death would have wanted the due
+and neceſſary Solemnity; but Chriſt was not Stabbed or
+Aſſaſſinated (I ſpeak now in Relation to the Two Witneſſes) but
+publickly Arraigned and Con<g ref="char:EOLhyphen"/>demned; and the Copy ought to agree with the
+Original: So a com<g ref="char:EOLhyphen"/>pleat Victory over them was neceſſary, that the due
+Solemnity of Pro<g ref="char:EOLhyphen"/>ceſs and Arraignment might take Place. In ſhort, the
+Progreſſion of the Climax is exceeding Regular, the <hi>War</hi> and
+<hi>Victory</hi> being <hi>highly</hi> ne<g ref="char:EOLhyphen"/>ceſſary to procure <hi>that</hi>
+Death, the <hi>most</hi> neceſſary of them all.</p>
+               <p n="7">VII. <hi>Seventhly, Who</hi> they are. They are the True
+Church of Chriſt under the Denomination of Witneſſes; and when I ſay
+the Old Wit<g ref="char:EOLhyphen"/>neſſes, the New Witneſſes, or the Witneſſes, I refer to
+the Bulk or Body of the Building, and when I ſay the <hi>Two
+Witneſſes,</hi> I refer to the Two chief Corner Stones; the whole Body is
+of a Witneſſing Nature, and every ſingle Stone is a Witneſs: But the
+Two chief corner Stones, by way of Excellency, are called, the <hi>Two
+Witneſſes.</hi> Theſe repreſent the whole Body as a King and an High
+Prieſt, the whole Nation; and as <hi>They</hi> repreſent the Power of the
+Whole, ſo at the appointed Time <hi>They</hi> are choſe out to
+<hi>finiſh</hi> the Power of the Whole. The Compari<g ref="char:EOLhyphen"/>ſon of a Building is
+made by the Holy Spirit. And after 'tis ſaid, The Gentiles ſhall tread
+under Foot the Holy City; 'Tis preſently added (as <hi>Beza</hi> renders it;)
+<hi>Dabo Illam;</hi> (that is, <hi>Sanctam <g ref="char:V">Ʋ</g>rbem) Duobus Il<g ref="char:EOLhyphen"/>lis Teſtibus
+meis;</hi> that is, I will give the Care or Charge of my True Church to thoſe
+my <hi>Two Witneſſes,</hi> and, as if it had been asked who theſe Two
+Witneſſes were, the Anſwer is, <hi>Hi ſunt Duae Illae Oleae,</hi>
+mean<g ref="char:EOLhyphen"/>ing <hi>Zerubbabel</hi> and <hi>Joſhua.</hi> Now none can make any Thing
+of theſe Two but a King and a High Prieſt. And though <hi>the Temple was
+mea<g ref="char:EOLhyphen"/>ſured, and THOSE</hi> (<hi>viz.</hi> the People) <hi>who worſhipped
+therein:</hi> Yet I find the Text points no more but <hi>once</hi> to the
+Multitude, and indeed 'twas needleſs, becauſe they had no Power: They are
+under Care and Protection, but cannot repreſent <hi>that</hi> they
+<hi>have</hi> not. And <hi>thoſe Per<g ref="char:EOLhyphen"/>ſons</hi> 
+                  <pb n="7" facs="tcp:151715:4" rendition="simple:additions"/>therefore are much miſtaken, who ſuppoſe a few common Indivi<g ref="char:EOLhyphen"/>duals
+ſlain in any Country, may anſwer the Death of the <hi>Two
+Witneſſes.</hi> They make no Diſtinction betwixt the Body and Head: 'Tis
+certain, the common Maſs, as <hi>living</hi> they have no Power, ſo their
+<hi>Death</hi> can repreſent the <hi>finiſhing</hi> of none; I mean their
+Death ſingly and apart; yet in Conjunction with their Head the TWO, I own
+their Death adds to the Efficacy and Solemnity, and that they ought to fall at
+the General Harveſt by the Angel's Sickle: Yet to compleat ſuch a ſolemn
+Period, and to make it Full and Authentick, nothing leſs than the So<g ref="char:EOLhyphen"/>lemn
+Death of a <hi>King</hi> and an <hi>High Prieſt</hi> will do the
+Buſineſs. For <hi>theſe</hi> being the Heads or chief Proprietors of
+<hi>Power,</hi> are the moſt fit and proper Perſons to undergo the
+Paſſive Solemnity of its Abrogation. NOW, <hi>ſuch</hi> a Thing has
+happened amongſt <hi>us, viz.</hi> a King and an High Prieſt have been
+ſlain, after an unparalell'd and uncommon Man<g ref="char:EOLhyphen"/>ner, or rather after a moſt
+proper Manner, they were ſlain in the Face of the Sun with the higheſt
+Solemnity, that all the World might take notice, that the Grand Period of the
+Old Diſpenſation was <hi>finiſhed.</hi> And not only in this Point, but
+in all other Circumſtances, as to <hi>Time,</hi> and <hi>Place,
+Proceſs,</hi> and <hi>Arraignment,</hi> their Death exactly agrees with the
+Text, and Counterpart. <hi>IN THE WESTERN PART OF THE WORLD, THESE-TWO
+WITNESSES, REPRESENTATIVES OF THE TR<g ref="char:V">Ʋ</g>E CH<g ref="char:V">Ʋ</g>RCH, OR WHOLE PROTEST ANT BODY,
+IN THEIR OWN CO<g ref="char:V">Ʋ</g>NTRY, BY THEIR OWN FRIENDS, AT THEIR OWN CHIEF CITY, WERE
+OVERCOME, BY A WAR</hi> and <hi>SLAIN.</hi> God is True, and all the World are
+Lyars. He hath told us, <hi>In the End it ſhall ſpeak and not Lye:</hi> Now
+here the Viſion ſpeaks, and who can contradict it? This Truth deſerves to
+be writ in Capitals of Gold, ſince it aſſerts the Veracity of God, which
+fooliſh and vain Man has ſo long called in Queſtion. I own there are
+ſeveral Perſuaſions, but no Matter by what Names we are called. There are
+only Two Churches, a True and Falſe One, and I find the Holy Spirit takes
+no<g ref="char:EOLhyphen"/>tice of no more: Yet 'tis obſervable, the <hi>First</hi> is expreſt by
+<hi>Four</hi> dif<g ref="char:EOLhyphen"/>fering Denominations, <hi>viz. Tribus, Populi, Linguae, &amp;
+Gentes;</hi> and the <hi>Latter</hi> but by <hi>One,</hi> viz. <hi>Jucolae
+Terrae.</hi> Now poſſibly amongſt other Meanings, the Difference in
+Opinion may be one that cauſeth this Di<g ref="char:EOLhyphen"/>ſtinction: But leaving this Enquiry
+to the more Curious, let the <hi>Four</hi> be <hi>who,</hi> and <hi>what</hi>
+they will, 'tis certain, <hi>theſe Two ſlain Witneſſes</hi> were the
+Head of them all, and appointed by Heaven to <hi>finiſh</hi> their
+<hi>Old</hi> State and Adminiſtration. The Church is in Two differing States,
+<hi>First</hi> under the Minor or Guardian State, then under the <hi>Adult
+State.</hi> And <pb n="8" facs="tcp:151715:5" rendition="simple:additions"/>theſe <hi>Two ſlain
+Witneſſes</hi> finiſh the Minor, or Guardian State, being the <hi>Two
+Last</hi> chief Proprietors of Power therein. And this gives great Light to
+thoſe Congratulations of the Church on Chriſt's Arrival to his
+<hi>Manhood</hi> in the Church, and by Conſequence on his Acceſſion to
+the Throne. <hi>We Thank Thee, ſay they,</hi> Lord God <hi>Almighty, who art
+and waſt, and art to come; Becauſe thou haſt taken to THY SELF</hi>
+('twas in the Hands of Guardians before) Thy <hi>Great</hi> Power,
+<hi>&amp;c.</hi> This implies a <hi>leſſer</hi> Power in the former State.
+The <hi>Millennium</hi> is nothing but the <hi>Manhood</hi> of Chriſt in his
+Church, and when He comes to his <hi>Manhood,</hi> He is inveſted of courſe
+with his <hi>Great Power.</hi> But I would not be miſtaken, I prefer the
+Maſter before the Servants, and am far from making a Compariſon betwixt the
+Death of the Two Witneſſes and that of Chriſt's, as to the Merit of it;
+yet I muſt be forced to acknowledge (and the Holy Scripture will bear me out)
+that <hi>Their</hi> Death is the true Counterpart of <hi>His,</hi> and ought to
+be attended with much the like Circumſtances, <hi>viz.</hi> a Reſurrection
+(not Literal) Aſcenſion, and New Diſpenſation. As to the Two Firſt,
+the Text plainly mentions them, and the Laſt to me is as plain: For, when
+<hi>John</hi> had eaten up the Book of the Old Diſpenſation, he was told,
+That he muſt <hi>PROPHESIE AGAIN, before People, and Nations, and Tongues,
+and many Kings.</hi> The Words <hi>Finiſhing</hi> Prophecy, and
+<hi>Prophe<g ref="char:EOLhyphen"/>ſying again,</hi> illuſtrate one the other; nor can we think
+they will pro<g ref="char:EOLhyphen"/>pheſie <hi>again</hi> what they have <hi>finiſhed,</hi> but
+turn over a <hi>New</hi> Leaf, and be<g ref="char:EOLhyphen"/>gin a <hi>New</hi> Chapter. And now,</p>
+               <p>Notwithſtanding any former Opinion (which I ſhall not be
+aſhamed to diſown) at preſent, the Truth ſhines ſo full in my Face,
+that I can<g ref="char:EOLhyphen"/>not otherwiſe think, and do hope ſo will others, That the Death
+of the afore-mentioned <hi>Perſons,</hi> was the <hi>True</hi> Death of the
+<hi>Two Last Wit<g ref="char:EOLhyphen"/>neſſes,</hi> which were to die to <hi>finiſh</hi> the
+Old Diſpenſation. Thoſe who have Objections, let them publiſh them. All
+Chriſtians muſt own, That <hi>ſuch</hi> a Thing, if <hi>not</hi> done,
+ſome Time or other, in ſome Place or other, <hi>must</hi> be done; and
+ſince it <hi>must</hi> be done, let them produce better Reaſons if they
+can, that <hi>This</hi> is not the Fact, or that it is <hi>yet</hi> to be done,
+and I ſhall willingly acquieſce therein. But I am ſatisfied, they cannot.
+It therefore being taken for granted, that the <hi>Two Wit<g ref="char:EOLhyphen"/>neſſes are
+ſlain,</hi> and Old Diſpenſation <hi>finiſhed;</hi> the next
+neceſſary Infe<g ref="char:EOLhyphen"/>rence will be, that we are on the <hi>Premiſes</hi> of the
+<hi>Millennium,</hi> and that the Downfall of <hi>Rome</hi> is juſt at the
+Door. For <hi>This</hi> black Tragedy, as it withdraws the <hi>Old</hi> Scenes,
+ſo it preſents the World with <hi>New</hi> ones, and opens a wide Door for
+Light and Truth. But to conclude, I <pb n="9" facs="tcp:151715:5"/>ſhall endeavour to
+bring the Thing yet cloſer, and make it yet a little more plain, by Summing
+up the Whole.</p>
+            </div>
+            <div type="conclusion">
+               <head>CONCL<g ref="char:V">Ʋ</g>SION.</head>
+               <p>There are a True and a Falſe Church, or Two Syncronizing
+Powers enter the Stage of the World, theſe Two Powers are repreſented by an
+inward and outward Court, the Latter perſecutes the Former all the Time they
+are on the Stage; the Former are called Witneſſes, having this Name from
+the Nature of their Office, which is of a Twofold Na<g ref="char:EOLhyphen"/>ture; for they have a
+Charge to give in, <hi>Teſtationem, &amp; Proteſtationem,</hi> to
+Publiſh, and give their Evidence to Divine Truths, and Matters of Fact, and
+to make Proteſtation againſt all Iniquity and Idolatry, and eſpecially
+againſt the Perſecution of their Adverſaries. The Date of their
+Adverſaries Power and theirs is equal, but during the greateſt part of
+their appointed Time, being perſecuted and trodden under Foot, little
+Strength or Power (though virtually in them) appears, but near the Expiration
+thereof it exerts it ſelf, not only in order to pull down and oppoſe their
+Adverſaries, but in order to be abrogated it ſelf. That which is <hi>under
+Foot,</hi> and ſtands not <hi>up,</hi> cannot be thrown <hi>down;</hi>
+therefore at laſt it <hi>ſtands up</hi> in order to be thrown down, but
+withal, in order to <hi>riſe again,</hi> and not to be thrown in the Fire
+like their Enemies. The Cedar and the Vine are lopp'd, that the Branches may
+yield more Fruit, and flouriſh more abundantly. But to return, Theſe Two
+Syncronizing Powers as at once they make their Entrance, ſo at once they make
+their <hi>Exit,</hi> yet their reſpective Scenes are not preſently removed,
+there is the ſame Diſtance of Time in Proportion, as betwixt the
+<hi>Harveſt</hi> and the <hi>Vintage.</hi> The Harveſt (as uſual) begins
+firſt, and the inner Court is pull'd down, that is, the Angel puts in his
+Sickle (according to Command) and reaps the True Church, raiſes a War, cuts
+down her Two chief Repreſentatives, burns her chief City, and inflicts many
+other heavy Calamities upon her. Thus ends the <hi>Harveſt,</hi> and nothing
+elſe is ſaid, only <hi>Demeſſa eſt Terra,</hi> The Earth was reaped.
+Afterwards (in courſe) the <hi>Vintage</hi> comes, and the out<g ref="char:EOLhyphen"/>ward Court is
+pull'd down, and when the Angel had cut down the Grapes, the Text ſaith,
+<hi>Miſit in Magnum Illum Lacum Excandeſcentiae Dei, He put them into that
+great Wine-Preſs of the Wrath of God.</hi> The Truth is, after God hath
+accounted with the <hi>True</hi> Church, he reckons with the <hi>Falſe</hi>
+One, <hi>viz.</hi> with the Whore and her Worſhippers, and <pb n="10" facs="tcp:151715:6"/>both <hi>ſhe</hi> and <hi>her</hi> City are burnt with Fire. But
+betwixt the City of the <hi>True</hi> Church, and that of the <hi>Falſe</hi>
+One, there is this Difference, the Firſt is only burnt with the Fire of
+<hi>Purgation,</hi> the Latter by the Fire of <hi>Indignation.</hi> And as to
+the <hi>Firſt,</hi> that Text is fulfilled, which ſaith, <hi>Although I
+fall, yet I ſhall riſe;</hi> for <hi>ſhe</hi> hath riſen again, and
+ſhines very gloriouſly: But when the Latter falls (and her Grapes are
+juſt ripe) <hi>ſhe</hi> ſhall never riſe again; But the Wrath of God
+abideth on her for ever. <hi>Amen.</hi> So be it. And now I have demonſtrated
+the Thing ſo plainly, I am very well ſatisfied, that though ſome
+<hi>may,</hi> yet others will not believe: So <hi>That</hi> will be fulfilled
+which was ſaid of Old; <hi>Be<g ref="char:EOLhyphen"/>hold, I work a Work in your Days, which ye
+ſhall in no wiſe believe, although a Man declare it unto you,</hi> that is,
+demonſtrate it. But I cannot con<g ref="char:EOLhyphen"/>clude without a ſmall Reflection or two
+more, both on our Enemies, and our ſelves, <hi>viz.</hi> When our City Flamed
+about our Ears, and other publick Calamities befel us, our Enemies, the
+<hi>Jucolae Terrae,</hi> rejoiced much to ſee us in ſuch deplorable
+Circumſtances, under the Evil of our own Predictions; ſeeing us ſo low,
+they thought we ſhould never riſe again to torment them with Truth;
+therefore they ſent Gifts and were glad: And we inſtead of looking up to
+Heaven, and being humble, charged our Enemies with our Miſeries, and
+proceeded ſo far as to <hi>Re<g ref="char:EOLhyphen"/>cord</hi> the ſame not in Braſs, but in
+Letters of Stone, which indeed ought to be eraſed; for it was GOD that burnt
+our City, and not <hi>They;</hi> but like true Men in Miſery, we were angry
+with every Body, yes, with GOD to, and ready to flie in his Face, and charge
+him with In<g ref="char:EOLhyphen"/>juſtice, and a Forgetfulneſs of his Promiſes. Thus we laid
+the Guilt every-where, but where it ſhould be, on our ſelves. Ignorant
+Wretches! We neither underſtood the Methods of God or Nature. 'Tis God's
+uſual Method to puniſh his own Child firſt, Judgment always begins with
+the Houſe of God. And as to Nature, we would have had Corn, and not Reaped,
+we would have had new Corn, and not Sowed; nay, we would have had Branches the
+firſt Day the Tree was lopp'd, and new Corn the firſt Day the Seed was
+ſown: So ignorant, and impa<g ref="char:EOLhyphen"/>tient we were. Well! our Harveſt has been got
+in, we have ſuffer'd nothing but our Lot, and much leſs than we deſerved.
+Let us humbly thank God for our Chaſtiſement and Viſitation. And let us
+have but a very little Patience, and we ſhall ſee and underſtand his
+righteous Judgments. We ſhall ſee the Difference he makes betwixt Children
+and Enemies, and that <hi>we</hi> were not in <hi>Rome</hi>'s Stead, but in our
+own neceſſary refining Fire, we ſhall ſee our Adverſaries Mirth be
+turned into Mourning; and that the <hi>Jucolae Terrae, &amp; Reges Terrae,</hi>
+ſhall weep <pb n="11" facs="tcp:151715:6" rendition="simple:additions"/>and mourn, and ſtand afar off, and
+ſay, <hi>Alas, alas, for that great City Babylon, that ſtrong City, in one
+Hour thy Judgments are come.</hi> Amen. Be it ſo. And NOW, though the
+preceding Diſcourſe under <hi>Seven</hi> ra<g ref="char:EOLhyphen"/>tional Heads, ſhould be
+Sealed up to others like the Seven Thunders, yet to me they have ſpoke very
+loudly, and I would ſpeak God's Praiſe in Words as loud, if I could, and
+therefore ſhall call a great Multi<g ref="char:EOLhyphen"/>tude to aſſiſt me, I mean The
+Church, and in <hi>Her</hi> Words ſay; <hi>Worthy art thou, O Bleſſed
+Jeſus, to take the Book and open the Seals, becauſe thou waſt ſlain,
+and haſt redeemed us to God by thy Blood, out of every Tribe and Tongue, and
+People and Nation, and made us Kings and Prieſts unto God, and we ſhall
+reign on Earth. Worthy is the Lamb to receive, Pover, and Wiſdom, and Riches,
+and Strength, and Honour, and Bleſſing, for ever more. Great and Marvellous
+are thy Works, Lord God Almighty, Juſt and True are thy Ways. Thou King of
+Saints, who ſhall not fear thee, O Lord, and glorifie thy Name? For thou only
+art Holy; All Nations ſhall come and worſhip before thee, for thy Judgments
+are made manifeſt.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
